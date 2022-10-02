@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="multiply_symbol">&#xd7;</string>
+    <string name="divide_symbol">&#xf7;</string>
+    <string name="equal_symbol">&#x3d;</string>
+    <string name="minus_symbol">&#x2212;</string>
+    <string name="backspace">backspace</string>
+    <string name="hint">Enter in a value</string>
+</resources>
